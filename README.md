@@ -2,8 +2,9 @@
 An easy way to load JavaScript scripts.
 ## Using jsLoader
 Add this code to your document
+
 ```
-<script src="jsloader.js"></script>
+<script src="jsloader.min.js"></script>
 ```
 
 ### Loading a JavaScript script
