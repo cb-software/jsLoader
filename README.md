@@ -10,5 +10,5 @@ Add this code to your document
 ### Loading a JavaScript script
 To load a JavaScript script, use the following code
 ```
-jsLoader("src");
+jsLoader(src);
 ```
